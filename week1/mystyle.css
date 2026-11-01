@@ -1,0 +1,28 @@
+body {
+    background-color:antiquewhite;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color:sienna;
+    text-decoration: none;
+}
+
+a:hover {
+    color:brown;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    border: 2px solid sienna;
+    border-radius: 10px;
+}
+
+tr:nth-child(even) {
+    background-color:brown;
+}
+
+ul {
+    list-style-type: "- ";
+}
